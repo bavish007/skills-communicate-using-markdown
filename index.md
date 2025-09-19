@@ -9,3 +9,7 @@
 ``` javascript
 var myMotto = "I am Speed!";
 ```
+
+- [x] High-Performance Engines
+- [x] All-Wheel Drive (AWD)
+- [x] Active Aerodynamics
