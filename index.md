@@ -1,5 +1,11 @@
-# Hash count determines size:
-## A single hash (#) creates the largest heading similar to an HTML <h1>
-##### And the size decreases with each additional hash.
+# Lamborghini:
+## Lamborghini is an Italian manufacturer of luxury sports cars and SUVs, founded in 1963 by Ferruccio Lamborghini.
+##### Known for its distinctive design and high performance, the brand's current models include the Revuelto, Urus SE, and Temerario, all of which showcase cutting-edge technology
+
 
 ![Image of Lamborghini](https://cdn.worldvectorlogo.com/logos/lamborghini.svg)
+
+
+``` javascript
+var myMotto = "I am Speed!";
+```
